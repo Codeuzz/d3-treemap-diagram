@@ -2,7 +2,7 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Hello Vite!</h1>
+    <h1>Hello Codeuzz!</h1>
   </div>
 `
 
